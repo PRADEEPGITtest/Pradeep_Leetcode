@@ -17,10 +17,7 @@ public:
         //     }
         // }
 
-        set<int> s(nums.begin(),nums.end());
-
-        vector<int> arr(s.begin(),s.end());  
-        nums=arr;   
+           
         // for(auto it:s)
         // {
         //     if(it.second>1)
@@ -29,7 +26,32 @@ public:
         //         arr.push_back(it.first);
         //     }
         // }
-        return nums.size();
+
+        // below codes or correct
+
+        // implementation:1
+        // set<int> s(nums.begin(),nums.end());
+
+        // vector<int> arr(s.begin(),s.end());  
+        // nums=arr;
+        // return nums.size();
+
+        // implementation:2
+
+        int i=0;
+        int j=nums[1];
+
+        for(int j=1;j<n;j++)
+        {
+            if(nums[j]!=nums[i])
+            {
+                nums[i+1]=nums[j];
+                i++;
+            }
+        }
+
+        return i+1;
+
 
        
         
