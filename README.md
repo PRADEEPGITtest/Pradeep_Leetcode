@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0118-pascals-triangle) |
+## String
+|  |
+| ------- |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 <!---LeetCode Topics End-->
