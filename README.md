@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0118-pascals-triangle) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
