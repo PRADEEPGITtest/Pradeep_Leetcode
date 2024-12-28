@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
