@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
