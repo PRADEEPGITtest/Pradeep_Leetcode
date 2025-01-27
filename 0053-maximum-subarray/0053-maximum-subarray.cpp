@@ -4,7 +4,7 @@ public:
     {
         // vector<int> v;
         // int n=nums.size();
-        // int maxLen=0;
+        // int maxi=INT_MIN;
         // for (int i=0;i<n;i++)
         // {
         //     int sum=0;
@@ -14,34 +14,36 @@ public:
         //         // {
         //         cout<<nums[j]<<",";
         //         sum=sum+nums[j];  
+        //         maxi=max(maxi,sum);
         //         // }
         //     }
         //     cout<<"\n";
-        //     maxLen=max(maxLen,sum);
+            
         // }
-        // return maxLen;
+        // return maxi;
         
         int sum=0;
-        int maxi=nums[0];
+        int maxi=INT_MIN;
 
         for(int i=0;i<nums.size();i++)
         {
             sum+=nums[i];
-
+            maxi=max(maxi,sum);
+            
             if(sum<0)
             {
                 sum=0;
             }
-            else if(sum>0)
-            {
-                maxi=max(maxi,sum);
-            }
+            // else if(sum>0)
+            // {
+                
+            //}
         }
-        if(maxi<0)
-        {
-            sort(nums.begin(),nums.end());
-            return nums[nums.size()-1];
-        }
+        // if(maxi<0)
+        // {
+        //     sort(nums.begin(),nums.end());
+        //     return nums[nums.size()-1];
+        // }
         return maxi;
     
     }
