@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2502-sort-the-people) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
