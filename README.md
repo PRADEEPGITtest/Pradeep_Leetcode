@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2502-sort-the-people) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0890-lemonade-change) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Binary Search
 |  |
 | ------- |
