@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2502-sort-the-people) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
