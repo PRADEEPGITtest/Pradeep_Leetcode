@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3463-alternating-groups-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3463-alternating-groups-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String Matching
 |  |
 | ------- |
