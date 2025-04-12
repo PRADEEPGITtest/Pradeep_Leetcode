@@ -11,7 +11,7 @@ public:
             else if(nums[i]<0)
                 mini2=max(mini2, nums[i]);
         }
-        if(abs(mini1)>abs(mini2)) return mini2;
+        if(abs((long long)mini1)>abs((long long)mini2)) return mini2;
         else return mini1;
     }
 };
