@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1656-count-good-triplets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -220,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
