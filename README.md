@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
