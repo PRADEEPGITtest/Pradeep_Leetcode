@@ -1,13 +1,11 @@
 class Solution {
 public:
     vector<int> buildArray(vector<int>& nums) {
-        int n=nums.size();
-        vector<int> ans;
-        for (int i=0;i<n;i++)
-        {
-            int c=nums[nums[i]];
-            ans.push_back(c);
-        }
-       return ans; 
+        vector<int> nums2;
+        for(int i=0;i<nums.size();i++){
+            nums2.push_back(nums[nums[i]]);
+        } 
+
+        return nums2;
     }
 };
