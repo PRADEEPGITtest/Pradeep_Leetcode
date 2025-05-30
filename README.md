@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
