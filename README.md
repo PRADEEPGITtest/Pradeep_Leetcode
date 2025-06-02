@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
