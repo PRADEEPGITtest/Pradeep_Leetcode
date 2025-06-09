@@ -35,17 +35,39 @@ public:
                 }
                 else mapp[x[i]]=y[i];
             }
-            vector<int> arr;
-            for(auto it:mapp)
-            {
-                int b=it.second;
-                arr.push_back(b);
-            }
+            // vector<int> arr;
+            // for(auto it:mapp)
+            // {
+            //     int b=it.second;
+            //     arr.push_back(b);
+            // }
 
-            int m=arr.size();
-            sort(arr.begin(),arr.end());
-            int ans=arr[m-1]+arr[m-2]+arr[m-3];
-            return ans;
+            // int m=arr.size();
+            // sort(arr.begin(),arr.end());
+            // int ans=arr[m-1]+arr[m-2]+arr[m-3];
+            // return ans;
+
+            int fstmax=-1, secmax=-2, thirdmax=-3;
+            //vector<int> arr = {2,3,4,7,5,3,4};
+            for(auto it:mapp){
+                if(it.second>=fstmax){
+                    thirdmax=secmax;
+                    secmax=fstmax;
+                    fstmax=it.second;
+                }
+                else if(fstmax>=it.second && it.second>=secmax && it.second>thirdmax){
+                    thirdmax=secmax;
+                    secmax=it.second;
+                    //fstmax=it;
+                }
+                else  if(fstmax>=it.second && secmax>=it.second && it.second>thirdmax){
+                    thirdmax=it.second;
+                }
+            }
+            // cout<<fstmax<<endl;
+            // cout<<secmax<<endl;
+
+            return fstmax+secmax+thirdmax;
         }
 
         return -1;
