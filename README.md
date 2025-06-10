@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Sliding Window
 |  |
