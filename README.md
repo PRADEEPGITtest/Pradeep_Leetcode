@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
