@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3463-alternating-groups-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -267,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0778-reorganize-string) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
