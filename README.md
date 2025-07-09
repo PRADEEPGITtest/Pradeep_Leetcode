@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)<br/>
 I upload my solutions here, If there is any tip to ace my coding skill, pls share it through my LinkedIn [check my profile].
 
 <!---LeetCode Topics Start-->
