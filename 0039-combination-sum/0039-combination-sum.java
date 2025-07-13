@@ -1,5 +1,5 @@
 class Solution {
-    private void fn(int ind, int[]candidates, List<Integer>ds, List<List<Integer>> ans, int target){
+    private void fn(int ind, int[]candidates, ArrayList<Integer>ds, List<List<Integer>> ans, int target){
         if(candidates.length==ind){
             if(target==0){
                 ans.add(new ArrayList <> (ds));
