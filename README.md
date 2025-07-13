@@ -173,6 +173,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0009-palindrome-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
@@ -256,6 +257,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0342-power-of-four) |
