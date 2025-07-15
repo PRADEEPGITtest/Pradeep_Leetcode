@@ -111,6 +111,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2502-sort-the-people](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2502-sort-the-people) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3396-valid-word](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3396-valid-word) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Hash Table
