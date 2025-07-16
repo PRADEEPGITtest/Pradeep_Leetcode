@@ -73,6 +73,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -265,6 +266,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0050-powx-n](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
@@ -304,5 +306,10 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
