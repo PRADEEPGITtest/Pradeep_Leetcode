@@ -265,6 +265,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
@@ -306,6 +307,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
