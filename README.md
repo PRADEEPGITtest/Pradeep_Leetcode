@@ -32,6 +32,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0890-lemonade-change](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0940-fruit-into-baskets) |
