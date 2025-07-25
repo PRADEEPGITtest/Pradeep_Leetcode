@@ -14,6 +14,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0039-combination-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0075-sort-colors) |
@@ -160,6 +161,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
@@ -288,6 +290,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0039-combination-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
