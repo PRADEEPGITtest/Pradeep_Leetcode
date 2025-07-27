@@ -29,6 +29,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0219-contains-duplicate-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -129,6 +130,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0645-set-mismatch) |
@@ -153,6 +155,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0078-subsets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0645-set-mismatch) |
@@ -165,6 +168,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0075-sort-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
@@ -190,6 +194,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0070-climbing-stairs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
@@ -243,6 +248,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
