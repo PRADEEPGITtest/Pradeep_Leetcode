@@ -22,6 +22,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0078-subsets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
@@ -97,6 +98,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0055-jump-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
