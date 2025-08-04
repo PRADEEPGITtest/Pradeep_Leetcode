@@ -12,6 +12,7 @@ public:
                 maxi=max(maxi,j-i+1);
             }
             else if(mapp.size()>2){
+                // from here 
                 while(mapp.size()>2 ){
                     mapp[fruits[i]]--;
                     if(mapp[fruits[i]]==0){
@@ -19,6 +20,7 @@ public:
                     }
                     i++;
                 }
+                // to here i saw my prev code for clarification
                 maxi=max(maxi,j-i+1);
             }
             j++;
