@@ -71,6 +71,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -255,6 +257,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -335,4 +338,12 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
