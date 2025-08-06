@@ -11,6 +11,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0027-remove-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0046-permutations) |
@@ -254,6 +255,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
