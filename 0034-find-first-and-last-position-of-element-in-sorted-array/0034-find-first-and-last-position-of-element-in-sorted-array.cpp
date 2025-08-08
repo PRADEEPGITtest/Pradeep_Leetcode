@@ -1,60 +1,41 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> arr;
-        int flag=0,start;
-        for(int i=0;i<nums.size();i++)
-        {
-            if(nums[i]==target)
-            {
-                arr.push_back(i);
-                start=i;
-                flag=1;
-                break;
-            }
-        }
-
-        for(int i=nums.size()-1;i>=0;i--)
-        {
-            if(nums[i]==target)
-            {
-                arr.push_back(i);
-                flag=1;
-                break;
-            }
-        }
-
-        if(flag==0){
-            arr.push_back(-1);
-            arr.push_back(-1);
-        }
-        return arr;
-
-        // int low=0;
-        // int high=nums.size()-1;
-        // int i=0;
-        // vector<int> arr;
-        // while(low<=high)
-        // {
-        //     mid=(low+high)/2;
-
-        //     if(nums[mid]== target)
-        //     {
-        //         arr.push_back(mid);
-        //         for(int i=mid+1;i<nums.size();i++)
-        //         {
-        //             if(target==nums[i])
-        //             {
-        //                 arr.push_back(i);
-        //             }
-        //         }
-        //     }
-
-        //     else if(nums[mid]<target) 
-        //     {
-
-        //     }
-
-        //}
+// Lower Bound ===========================================================================
+int lowerBound(vector<int>& nums, int target, int low, int high, int ans){
+    if(low>high) return ans;
+    int mid=low+(high-low)/2;
+    
+    if(nums[mid]>=target) {ans=mid; return lowerBound(nums, target, low, mid-1, ans);}
+    else {
+        return lowerBound(nums, target, mid+1, high, ans);
     }
+}
+
+// Upper Bound ===========================================================================
+int upperBound(vector<int>& nums, int target, int low, int high, int ans1){
+    
+    if(low>high) return ans1;
+    int mid=low+(high-low)/2;
+    if(nums[mid]>target) {ans1=mid;return upperBound(nums, target, low, mid-1, ans1);}
+
+    return upperBound(nums, target, mid+1, high, ans1);
+}
+
+    vector<int> searchRange(vector<int>& nums, int target) {
+        if(nums.size()==0) return {-1,-1};
+        if(nums.size()==1 && target==1 ) return {0,0};
+        int ans=nums.size()-1;
+        int low=0, high=nums.size()-1;
+
+        int lb=lowerBound(nums, target, low, high, ans);
+        if( nums[lb]!=target || lb==nums.size()) return {-1,-1};
+
+        low=0, high=nums.size()-1;
+        int ans1=nums.size();
+        int ub=upperBound(nums, target, low, high, ans1);
+
+        return {lb,ub-1};
+
+    }
+     
 };
