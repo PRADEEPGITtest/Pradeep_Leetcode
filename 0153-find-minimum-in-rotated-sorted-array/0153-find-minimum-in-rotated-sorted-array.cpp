@@ -5,10 +5,11 @@ public:
         int mini=INT_MAX;
         while(low<high){
             int mid=low+(high-low)/2;
-            
+            // to check right part of array has min or not
             if(nums[mid]<nums[high]) high=mid;
+            // to check left part of array has min or not 
             else low=mid+1;
         }
-        return nums[low];
+        return nums[high];
     }
 };
