@@ -26,6 +26,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0119-pascals-triangle-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0198-house-robber) |
@@ -259,6 +260,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0033-search-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
