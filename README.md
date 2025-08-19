@@ -63,6 +63,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2502-sort-the-people) |
@@ -219,6 +220,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1448-maximum-69-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
