@@ -74,6 +74,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [2698-find-the-array-concatenation-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3463-alternating-groups-i) |
