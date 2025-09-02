@@ -9,6 +9,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0011-container-with-most-water](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0035-search-insert-position) |
@@ -90,6 +91,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0234-palindrome-linked-list) |
