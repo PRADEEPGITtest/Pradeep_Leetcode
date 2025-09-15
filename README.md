@@ -131,6 +131,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0778-reorganize-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0812-rotate-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -157,6 +158,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0782-jewels-and-stones](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
