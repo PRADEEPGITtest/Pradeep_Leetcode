@@ -21,6 +21,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0055-jump-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -113,6 +114,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0055-jump-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -361,6 +363,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
