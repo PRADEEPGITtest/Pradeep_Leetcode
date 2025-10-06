@@ -212,6 +212,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0682-baseball-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -236,6 +237,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
