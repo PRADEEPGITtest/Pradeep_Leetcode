@@ -79,6 +79,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [2698-find-the-array-concatenation-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -243,6 +244,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3817-maximum-containers-on-a-ship](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
