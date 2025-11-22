@@ -86,6 +86,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [3463-alternating-groups-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3463-alternating-groups-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -177,6 +178,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -274,6 +276,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -307,6 +310,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -315,6 +319,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0778-reorganize-string](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0778-reorganize-string) |
 | [2486-most-frequent-even-element](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String Matching
@@ -391,9 +396,14 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 ## Segment Tree
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
