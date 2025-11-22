@@ -85,6 +85,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3463-alternating-groups-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -246,6 +247,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3817-maximum-containers-on-a-ship](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
