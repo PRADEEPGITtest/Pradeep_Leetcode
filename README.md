@@ -43,6 +43,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
