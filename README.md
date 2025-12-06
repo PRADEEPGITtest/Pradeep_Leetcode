@@ -63,6 +63,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1813-maximum-erasure-value](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -219,6 +220,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0682-baseball-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2551-apply-operations-to-an-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2551-apply-operations-to-an-array) |
