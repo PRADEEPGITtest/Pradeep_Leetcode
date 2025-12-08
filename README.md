@@ -248,6 +248,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -371,6 +372,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
 |  |
