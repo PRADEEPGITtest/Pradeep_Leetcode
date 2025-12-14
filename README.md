@@ -51,6 +51,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0792-binary-search](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -132,6 +133,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0213-house-robber-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -388,6 +390,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0063-unique-paths-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
