@@ -23,11 +23,38 @@ public:
         //int ans=fn(matrix, 0, 0, n-1);
         vector<vector<int>>dp(n, vector<int>(n,-1e5));
         int mini=1e9;
+        // for(int i=0; i<n; i++){
+        //     mini=min(mini, fn(matrix, dp, n-1, i, n-1));
+        // }
+
+        // for(auto it:dp){
+        //     for(auto &bt:it) cout<<bt<<" ";
+        //     cout<<endl;
+        // }
+
         for(int i=0; i<n; i++){
-            mini=min(mini, fn(matrix, dp, n-1, i, n-1));
+            dp[0][i]=matrix[0][i];
         }
 
+        for(int i=1; i<n; i++){
+            for(int j=0; j<n; j++){
 
-        return mini;
+                int mov1=1e9, mov2=1e9, mov3=1e9;
+
+                if(j-1 >= 0) mov1=dp[i-1][j-1] + matrix[i][j];
+
+                mov2=dp[i-1][j] + matrix[i][j];
+
+                if(j+1 < n) mov3=dp[i-1][j+1] + matrix[i][j];
+
+                dp[i][j] = min( mov1, min(mov2, mov3) );
+            }
+        }
+       
+        int ans=dp[n-1][0];
+        for(int i=1; i<n; i++){
+            ans=min(ans, dp[n-1][i]);
+        }
+        return ans;
     }
 };
