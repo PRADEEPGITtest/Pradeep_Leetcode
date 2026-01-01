@@ -41,6 +41,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0229-majority-element-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
+| [0416-partition-equal-subset-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -132,6 +133,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0198-house-robber](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
