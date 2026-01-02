@@ -27,9 +27,9 @@ public:
         int target = sum/2;
         int n=nums.size();
 
-        vector<vector<int>>dp(n, vector<int>(sum, -1));
+        //vector<vector<int>>dp(n, vector<int>(target, -1));
 
-        int ans=fn(n-1, target, nums, dp);
+        //int ans=fn(n-1, target, nums, dp);
 
         // for(auto it:dp){
         //     for(auto bt:it){
@@ -38,6 +38,30 @@ public:
         //     cout<<endl;
         // }
 
-        return ans;
+        //return ans;
+//**********************************************************************************
+        // tabulation
+        vector<vector<bool>>dp(n, vector<bool>(target+1, false));
+
+        for(int i=0; i<n; i++){
+            dp[i][0]=true;
+        }
+
+        if(nums[0] <= target) dp[0][nums[0]] = true;
+
+        for(int ind=1; ind<n; ind++){
+            for(int tar=1; tar<=target; tar++){
+                
+                bool t=false;
+                if(nums[ind] <= tar){
+                    t=dp[ind-1][tar-nums[ind]];
+                }
+
+                bool nt=dp[ind-1][tar]  ;
+
+                dp[ind][tar] = (t or nt);
+            }
+        }
+        return dp[n-1][target];
     }
 };
