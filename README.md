@@ -56,6 +56,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0940-fruit-into-baskets](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-three-consecutive-odds](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -137,6 +138,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0435-non-overlapping-intervals](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1013-fibonacci-number) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -393,6 +395,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0064-minimum-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
