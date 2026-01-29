@@ -17,10 +17,33 @@ public:
         int n=grid.size();
         int path_min=1e9;
         vector<vector<int>>dp(n, vector<int>(n+1, -1));
-        for(int i=0; i<n; i++){
-            path_min=min(path_min, fn(grid, dp, n-1, i, n-1));
-        }
-        return path_min;
+        // for(int i=0; i<n; i++){
+        //     path_min=min(path_min, fn(grid, dp, n-1, i, n-1));
+        // }
+        // return path_min;
+
+        //Tabulation>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
         
+        for(int i=0; i<n; i++){
+            dp[0][i]=grid[0][i];
+        }
+
+        for(int i=1; i<n; i++){
+            for(int j=0; j<n; j++){
+                int ans=1e9;
+                for(int k=0; k<n; k++){
+                    if(j!=k)
+                        ans=min(ans, dp[i-1][k] + grid[i][j]);
+                }
+                dp[i][j]=ans;
+            }
+            
+        }
+        int mini=dp[n-1][0];
+        for(int i=0; i<n; i++){
+            mini=min(mini, dp[n-1][i]);
+        }
+
+        return mini;
     }
 };
