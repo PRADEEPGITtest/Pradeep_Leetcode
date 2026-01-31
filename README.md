@@ -49,6 +49,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0645-set-mismatch](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0682-baseball-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0898-transpose-matrix) |
@@ -314,6 +315,7 @@ I upload my solutions here, If there is any tip to ace my coding skill, pls shar
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PRADEEPGITtest/Pradeep_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
